@@ -14,7 +14,7 @@ function Ex4(props) {
             </div>
         </div>
 
-        {/* <div className="row">
+        <div className="row">
             {
                 products && products.map((item,index)=>{
                     return (
@@ -22,7 +22,7 @@ function Ex4(props) {
                     )
                 })
             }
-        </div> */}
+        </div>
     </div>
     )
 }
